@@ -1,3 +1,3 @@
-# My First README.md
+# My First README
 
 Repo explaining README.md
